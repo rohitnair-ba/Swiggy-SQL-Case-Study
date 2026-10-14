@@ -111,13 +111,6 @@ Explore the full case study presentation.
 
 **PDF file:** [`Swiggy_SQL_Case_Study.pdf`](Swiggy_SQL_Case_Study.pdf)
 
-## 🚀 How to Run the Project
-
-1. Open the SQL script linked above.
-2. Set up the database and tables required by the queries.
-3. Execute the script in MySQL Workbench.
-4. Review the query outputs and compare them with the presentation and screenshots.
-
 ## 👤 Author
 
 **Rohit Nair**
