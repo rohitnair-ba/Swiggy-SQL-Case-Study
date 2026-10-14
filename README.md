@@ -3,7 +3,7 @@
 
 An SQL-based business analytics project exploring restaurant performance, customer ordering patterns, and delivery partner activity using MySQL.
 
-[📊 View Presentation](presentation/Swiggy_SQL_Case_Study.pdf) · [💻 Explore SQL Queries](sql/swiggy_analysis.sql)
+[📊 View Presentation](Swiggy_SQL_Case_Study.pdf) · [💻 Explore SQL Queries](sql/swiggy_analysis.sql)
 
 ---
 
