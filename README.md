@@ -15,7 +15,7 @@ This project uses a Swiggy-inspired relational dataset to answer 13 business que
 
 ## 🖼️ Project Preview
 
-![Swiggy SQL Case Study Project Preview](swiggy-project-preview.png)
+![Swiggy SQL Case Study Project Preview](images/swiggy-project-preview.png)
 
 ## 🎯 Business Objectives
 
@@ -66,19 +66,19 @@ This project uses a Swiggy-inspired relational dataset to answer 13 business que
 
 ### 🍴 Restaurant Analysis
 
-![Restaurant Analysis](restaurant-analysis.png)
+![Restaurant Analysis](images/restaurant-analysis.png)
 
 ### 👥 Customer Analysis — Part 1
 
-![Customer Analysis Part 1](customer-analysis-part-1.png)
+![Customer Analysis Part 1](images/customer-analysis-part-1.png)
 
 ### 👥 Customer Analysis — Part 2
 
-![Customer Analysis Part 2](customer-analysis-part-2.png)
+![Customer Analysis Part 2](images/customer-analysis-part-2.png)
 
 ### 🛵 Delivery Partner Analysis
 
-![Delivery Partner Analysis](delivery-partner-analysis.png)
+![Delivery Partner Analysis](images/delivery-partner-analysis.png)
 
 ## 💻 SQL Implementation
 
