@@ -17,7 +17,7 @@ This project uses a Swiggy-inspired relational dataset to answer 13 business que
 
 **PNG file:** `project-preview.png`
 
-![Swiggy SQL Case Study Project Preview](images/project-preview.png)
+![Swiggy SQL Case Study Project Preview](swiggy-project-preview.png)
 
 ## 🎯 Business Objectives
 
