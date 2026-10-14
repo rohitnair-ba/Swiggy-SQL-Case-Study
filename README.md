@@ -66,27 +66,19 @@ This project uses a Swiggy-inspired relational dataset to answer 13 business que
 
 ### 🍴 Restaurant Analysis
 
-**PNG file:** `restaurant-analysis.png`
-
-![Restaurant Analysis](images/restaurant-analysis.png)
+![Restaurant Analysis](restaurant-analysis.png)
 
 ### 👥 Customer Analysis — Part 1
 
-**PNG file:** `customer-analysis-part-1.png`
-
-![Customer Analysis Part 1](images/customer-analysis-part-1.png)
+![Customer Analysis Part 1](customer-analysis-part-1.png)
 
 ### 👥 Customer Analysis — Part 2
 
-**PNG file:** `customer-analysis-part-2.png`
-
-![Customer Analysis Part 2](images/customer-analysis-part-2.png)
+![Customer Analysis Part 2](customer-analysis-part-2.png)
 
 ### 🛵 Delivery Partner Analysis
 
-**PNG file:** `delivery-partner-analysis.png`
-
-![Delivery Partner Analysis](images/delivery-partner-analysis.png)
+![Delivery Partner Analysis](delivery-partner-analysis.png)
 
 ## 💻 SQL Implementation
 
