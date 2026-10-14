@@ -1,4 +1,4 @@
-# 🍽️ Swiggy SQL Case Study
+# 🍜 Swiggy SQL Case Study
 ### Restaurant Performance | Customer Behavior | Delivery Partner Analytics
 
 An SQL-based business analytics project exploring restaurant performance, customer ordering patterns, and delivery partner activity using MySQL.
